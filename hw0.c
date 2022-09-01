@@ -1,3 +1,12 @@
+/*
+Name: Md Kamal Hossain Chowdhury
+Email: mhchowhdhury@crimson.ua.edu
+Course: CS 691
+Homework #: 0
+Instructions to compile the program: (for example: gcc -Wall -O -o hw0 hw0.cpp)
+Instructions to run the program: (for example: ./hw0 1000 1000)
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/time.h>
