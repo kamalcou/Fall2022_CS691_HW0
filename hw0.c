@@ -66,7 +66,7 @@ int compute(int *life, int *temp, int N) {
         }
       } else {
 
-        if (value == 2 || value == 3) {
+        if (value == 3) {
           temp[i * (N + 2) + j] = ALIVE;
           flag++;
         } else {
