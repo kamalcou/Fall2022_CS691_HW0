@@ -1,6 +1,6 @@
 # Fall2022_CS691_HW0
 
-| Test Case #| Problem Size| Max. Generations| Time Taken|AVG Time|
+| Test Case #| Problem Size| Max. Generations| Time Taken (in Seconds)|AVG Time|
 | --- | --- |--- | --- |---|
 | 1.1 | 1000x1000 | 1000 |5.656028||
 | 1.2 | 1000x1000 | 1000 |5.720689|5.696750333|
